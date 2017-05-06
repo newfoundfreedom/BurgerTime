@@ -7,7 +7,7 @@
 ### If you'd like to take your burgers to-go
 You can deploy your own version of Burgertime by following these steps:
 
-> 1. Clone the BurgerTime repo `git clone git@github.com:newfoundfreedom/Bamazon.git`
+> 1. Clone the BurgerTime repo `https://github.com/newfoundfreedom/BurgerTime.git`
 > 2. Navigate to the main BurgerTime folder
 > 3. Install dependency packages `npm install`
 > 4. Navigate to the 'db' folder 
