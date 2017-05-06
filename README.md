@@ -4,7 +4,7 @@
 <br>
 <br>
 ### BurgerTime is a full stack app utilizing Node, Express, MySQL and Handlebars.
-
+---
 ### If you'd like to take your burgers to-go
 You can deploy your own version of Burgertime by following these steps:
 
