@@ -3,7 +3,7 @@
 *Nothing to install. Nothing to run.  Just bring your hunger and create your favorite burger at [BurgerTime](https://burgertime-app.herokuapp.com/).*
 <br>
 <br>
-## BurgerTime is a full stack app utilizing Node, Express, MySQL and Handlebars.
+### BurgerTime is a full stack app utilizing Node, Express, MySQL and Handlebars.
 
 ### If you'd like to take your burgers to-go
 You can deploy your own version of Burgertime by following these steps:
