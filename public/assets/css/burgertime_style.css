@@ -24,13 +24,28 @@ body {
     margin: 20px 0;
 }
 
+.footer a {
+    margin: -14px 0;
+    text-decoration: none;
+}
+
 .jumbotron {
     margin: 0 0 10px 0;
+    padding: 20px;
 }
 
 .logo {
-    height: 15vw;
+    height: 13vw;
 }
+
+.well {
+    padding: 10px;
+}
+
+h4, button {
+    display: inline;
+}
+
 
 
 
